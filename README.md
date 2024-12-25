@@ -46,6 +46,7 @@ print(result)  # Output: 0,4999987...
 
 Формула
 Синус и натуральный логарифм определяются формулой Маклорена
+![image](https://github.com/user-attachments/assets/420ce6f2-e7a3-4d69-925b-383cd6a45909)
 
 Ссылки
 Документация Python
